@@ -1,34 +1,123 @@
-# 	⭐: Vincent Choi
-:wave: Hi, I'm Vincent, a software engineer based in Sydney, Australia.
+# Hi, I'm Vincent Choi 👋
 
-# 🙆: About Me
+I'm an IT and Cybersecurity student based in Sydney, Australia, currently building practical skills in networking, Linux, security operations, IT support, and SOC-style investigation.
 
-- 🌱 I am currently working on my independent project which is a quest-like planner for task allocations. 
-- :flight_departure: I've currently completed:
-  - Software Engineering Immersive Program by [General Assembly Australia](https://generalassemb.ly/education/software-engineering-immersive/sydney).
-- 📫 How to reach me: email me at vncechoi@gmail.com.
-- 👨: Pronouns: he/him
+I am focused on developing job-ready technical fundamentals through hands-on labs, independent projects, and technical documentation.
 
-# 🧰 Tools I use
-- **Languages**: JavaScript, Ruby. 
-- **Front-end**: React.js, Vue.js.
-- **Back-end**: NodeJS, Express, Ruby on Rails. 
-- **Databases**: PostgreSQL.
-- **Version control**: Git.
+---
 
-# :triangular_flag_on_post: Topics I am currently interested
-- I have been exploring around the programming world, and I am excited with every thing along the way. Still, **data structures and algorithm** is my current favourite.
-<!--
-**vncechoi/vncechoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 IT and Cybersecurity student based in Sydney, Australia
+- 🔐 Building practical skills in cybersecurity, networking, Linux, and IT support
+- 🖥️ Interested in SOC analysis, threat detection, cloud security, and infrastructure support
+- 🧪 Currently working on independent labs, ticket triage workflows, and security investigation projects
+- 💬 Strong background in customer service, communication, and structured problem-solving
+- 📫 Contact: **vncechoi@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+I am currently developing skills in:
+
+- Networking fundamentals: TCP/IP, DNS, HTTP, ports, protocols, and packet analysis
+- Linux command line and system administration
+- Windows enterprise administration and Active Directory fundamentals
+- Security monitoring and SOC-style investigation
+- Log analysis and incident response fundamentals
+- Ticket triage and technical documentation
+- Python scripting for automation and security tasks
+
+---
+
+## Technical Skills
+
+### Cybersecurity & IT
+
+- Linux
+- Windows
+- Networking fundamentals
+- Wireshark
+- Nmap
+- Basic vulnerability scanning
+- Log analysis
+- Ticket triage
+- Active Directory fundamentals
+- Technical documentation
+
+### Scripting & Development
+
+- Python
+- JavaScript
+- Bash
+- HTML/CSS
+- Git & GitHub
+
+### Tools & Platforms
+
+- VMware
+- Kali Linux
+- Wireshark
+- Google Colab
+- VS Code
+- GitHub
+
+---
+
+## Projects & Labs
+
+### Cybersecurity Labs
+
+Hands-on labs focused on networking, Linux, packet analysis, vulnerability identification, and defensive security workflows.
+
+### Ticket Triage / IT Support Project
+
+A simulated IT support workflow project focused on categorising tickets, identifying priority levels, documenting troubleshooting steps, and communicating technical issues clearly.
+
+### Network Traffic Analysis
+
+A hands-on project using Wireshark to inspect traffic, identify protocols, analyse packet behaviour, and understand how systems communicate over a network.
+
+### Linux Notes & Scripts
+
+A collection of Linux command-line notes, file system practice, permissions exercises, and basic scripts for automation and system administration.
+
+### SOC Investigation Writeups
+
+Mock security investigation writeups documenting alerts, indicators, evidence, analysis steps, and recommended actions.
+
+---
+
+## Learning Roadmap
+
+I am actively working on:
+
+- Strengthening Linux and networking fundamentals
+- Building a cybersecurity home lab
+- Creating SOC-style investigation writeups
+- Practising Wireshark, Nmap, and log analysis
+- Improving Python and Bash scripting for automation
+- Documenting my learning through GitHub projects and technical notes
+
+---
+
+## What I'm Looking For
+
+I am currently looking for opportunities in:
+
+- IT Support
+- Service Desk
+- Cybersecurity Internships
+- Junior SOC Analyst roles
+- Cloud or Infrastructure Support
+- Entry-level Security Operations roles
+
+I am especially interested in roles where I can continue developing strong technical fundamentals while contributing through communication, documentation, and problem-solving.
+
+---
+
+## Connect With Me
+
+- 📧 Email: **vncechoi@hotmail.com**
+- 💼 LinkedIn: www.linkedin.com/in/vncechoi
